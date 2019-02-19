@@ -62,7 +62,7 @@ namespace peleaCientifica
                 case "6":
                     Console.WriteLine("Has elegido a Benjamin Franklin");
                     Console.WriteLine("\n");
-                    player.Cientifico("Benjamin Franklin", "Horno de Franklin", "El Pararrayos", "Corrientes Oceánicas", "Corriente Continua", 77, 66, 33, 22, 902, 55);
+                    player.Cientifico("Benjamin Franklin", "Horno de Franklin", "El Pararrayos", "Corrientes Oceánicas", " Humidificador", 77, 66, 33, 22, 902, 55);
                     break;
                 case "7":
                     Console.WriteLine("Has elegido a Louis Pasteur");
@@ -72,7 +72,7 @@ namespace peleaCientifica
                 case "8":
                     Console.WriteLine("Has elegido a Nikola Tesla");
                     Console.WriteLine("\n");
-                    player.Cientifico("Nikola Tesla", "Bobina de Telsa ", "Campo Magnético Rotativo", "Rayos X ", "Corriente Alterna", 200, 40, 31, 30, 799, 50);
+                    player.Cientifico("Nikola Tesla", "Bobina de Telsa ", "Campo Magnético Rotativo", "Rayos X ", "La Radio", 200, 40, 31, 30, 799, 50);
                     break;
                 case "9":
                     Console.WriteLine("Has elegido a Albert Einstein");
